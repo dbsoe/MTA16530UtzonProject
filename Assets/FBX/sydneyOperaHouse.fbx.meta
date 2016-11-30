@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 646eb5f2725ecab42b87a514f51b1091
+timeCreated: 1480066337
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baseGround
+    100002: baseGround1
+    100004: bgTraceFront
+    100006: bgTraceSide
+    100008: bgTraceTop
+    100010: coveragePlane
+    100012: coveragePlane1
+    100014: coveragePlane10
+    100016: coveragePlane11
+    100018: coveragePlane2
+    100020: coveragePlane3
+    100022: coveragePlane4
+    100024: coveragePlane5
+    100026: coveragePlane6
+    100028: coveragePlane7
+    100030: coveragePlane8
+    100032: coveragePlane9
+    100034: house1
+    100036: house2
+    100038: housePyramid
+    100040: housePyramid1
+    100042: housePyramid2
+    100044: housePyramid3
+    100046: housePyramid4
+    100048: housePyramid5
+    100050: housePyramid6
+    100052: housePyramid7
+    100054: //RootNode
+    400000: baseGround
+    400002: baseGround1
+    400004: bgTraceFront
+    400006: bgTraceSide
+    400008: bgTraceTop
+    400010: coveragePlane
+    400012: coveragePlane1
+    400014: coveragePlane10
+    400016: coveragePlane11
+    400018: coveragePlane2
+    400020: coveragePlane3
+    400022: coveragePlane4
+    400024: coveragePlane5
+    400026: coveragePlane6
+    400028: coveragePlane7
+    400030: coveragePlane8
+    400032: coveragePlane9
+    400034: house1
+    400036: house2
+    400038: housePyramid
+    400040: housePyramid1
+    400042: housePyramid2
+    400044: housePyramid3
+    400046: housePyramid4
+    400048: housePyramid5
+    400050: housePyramid6
+    400052: housePyramid7
+    400054: //RootNode
+    2300000: baseGround
+    2300002: baseGround1
+    2300004: bgTraceFront
+    2300006: bgTraceSide
+    2300008: bgTraceTop
+    2300010: coveragePlane
+    2300012: coveragePlane1
+    2300014: coveragePlane10
+    2300016: coveragePlane11
+    2300018: coveragePlane2
+    2300020: coveragePlane3
+    2300022: coveragePlane4
+    2300024: coveragePlane5
+    2300026: coveragePlane6
+    2300028: coveragePlane7
+    2300030: coveragePlane8
+    2300032: coveragePlane9
+    2300034: housePyramid
+    2300036: housePyramid1
+    2300038: housePyramid2
+    2300040: housePyramid3
+    2300042: housePyramid4
+    2300044: housePyramid5
+    2300046: housePyramid6
+    2300048: housePyramid7
+    3300000: baseGround
+    3300002: baseGround1
+    3300004: bgTraceFront
+    3300006: bgTraceSide
+    3300008: bgTraceTop
+    3300010: coveragePlane
+    3300012: coveragePlane1
+    3300014: coveragePlane10
+    3300016: coveragePlane11
+    3300018: coveragePlane2
+    3300020: coveragePlane3
+    3300022: coveragePlane4
+    3300024: coveragePlane5
+    3300026: coveragePlane6
+    3300028: coveragePlane7
+    3300030: coveragePlane8
+    3300032: coveragePlane9
+    3300034: housePyramid
+    3300036: housePyramid1
+    3300038: housePyramid2
+    3300040: housePyramid3
+    3300042: housePyramid4
+    3300044: housePyramid5
+    3300046: housePyramid6
+    3300048: housePyramid7
+    4300000: bgTraceTop
+    4300002: bgTraceSide
+    4300004: bgTraceFront
+    4300006: baseGround
+    4300008: baseGround1
+    4300010: housePyramid4
+    4300012: housePyramid5
+    4300014: housePyramid6
+    4300016: housePyramid7
+    4300018: coveragePlane6
+    4300020: coveragePlane7
+    4300022: coveragePlane8
+    4300024: coveragePlane9
+    4300026: coveragePlane10
+    4300028: coveragePlane11
+    4300030: housePyramid
+    4300032: housePyramid1
+    4300034: housePyramid2
+    4300036: housePyramid3
+    4300038: coveragePlane
+    4300040: coveragePlane1
+    4300042: coveragePlane2
+    4300044: coveragePlane3
+    4300046: coveragePlane4
+    4300048: coveragePlane5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
