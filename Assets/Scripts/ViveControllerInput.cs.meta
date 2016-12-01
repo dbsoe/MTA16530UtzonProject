@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b77ebf8d29182f45be99aad2fd128d1
+timeCreated: 1480587035
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CursorSprite: {instanceID: 0}
+  - CursorMaterial: {instanceID: 0}
+  - ControllerCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
