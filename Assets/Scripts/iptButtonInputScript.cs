@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-		    public class ButtonInput : MonoBehaviour, IDragHandler, IEndDragHandler
+		    public class ButtonInputScript : MonoBehaviour, IDragHandler, IEndDragHandler
 		    {
 
 		      
