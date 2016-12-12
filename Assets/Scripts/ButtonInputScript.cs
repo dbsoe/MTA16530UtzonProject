@@ -23,6 +23,8 @@ using UnityEngine.UI;
 		      public float Dist5;
 		      public float Dist6;
 
+			public int Dist = 30;
+			
 		      public void OnDrag(PointerEventData data){
   			transform.position = data.position;
 		      }
@@ -41,22 +43,22 @@ using UnityEngine.UI;
 			Dist6 = DistanceCalc(gameObject.transform.position.x, gameObject.transform.position.y,
 					     Button6.transform.position.x, Button6.transform.position.y);
 
-			if(Dist1 <= 30){
+			if(Dist1 <= Dist){
 			  Spheres.GetComponent<PanoramaHandler>().onClick(1);
 			}
-			if(Dist2 <= 30){
+			if(Dist2 <= Dist){
 			  Spheres.GetComponent<PanoramaHandler>().onClick(2);
 			}
-			if(Dist3 <= 30){
+			if(Dist3 <= Dist){
 			  Spheres.GetComponent<PanoramaHandler>().onClick(3);
 			}
-			if(Dist4 <= 30){
+			if(Dist4 <= Dist){
 			  Spheres.GetComponent<PanoramaHandler>().onClick(4);
 			}
-			if(Dist5 <= 30){
+			if(Dist5 <= Dist){
 			  Spheres.GetComponent<PanoramaHandler>().onClick(5);
 			}
-			if(Dist6 <= 30){
+			if(Dist6 <= Dist){
 			  Spheres.GetComponent<PanoramaHandler>().onClick(6);
 			}
 			  }
