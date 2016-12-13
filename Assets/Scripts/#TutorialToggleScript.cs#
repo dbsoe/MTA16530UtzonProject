@@ -1,0 +1,22 @@
+using UnityEngine;
+using System.Collections;
+using UnityEngine.EventSystems;
+using UnityEngine.UI;
+
+
+public class TutorialToggleScript : MonoBehaviour, IEndDragHandler {
+
+	// Use this for initialization
+	void Start () {
+	
+	}
+	
+	// Update is called once per frame
+	void Update () {
+	
+	}
+
+    public void OnEndDrag(PointerEventData eventData){
+	this.gameObject.SetActive(false);
+    }
+}
